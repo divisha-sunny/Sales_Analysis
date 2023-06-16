@@ -23,3 +23,9 @@ The SQL statements for data cleaning and transformation are in the folder **SQL_
 Below is the screenshot of the data model after importing the cleaned and prepared tables into Power BI. This data model illustrates how FACT_Budget has been connected to FACT_InternetSales and other essential DIM tables.
 
 ![Alt Text](Data_Model.png)
+
+#Sales Management Dashboard
+
+The Sales Management Dashboard is as shown below which consists of three pages. The first page functions as a dashboard and provides an overview of sales performance. The second and third pages show the sales trends over time, both per customer and per product.
+
+
