@@ -16,4 +16,4 @@ The business request for this project is to create an executive sales report for
 
 To create the necessary data model for conducting analysis and meeting the business needs outlined in the user stories, the following tables were extracted using SQL. All the data sources are in SQL Server, except for the sales budgets, which are in Excel format. The sales budgets data source was connected to the data model in a subsequent step of the process.
 
-Below are the SQL statements for cleansing and transforming the required data.
+The SQL statements for data cleaning and transformation are in the file **SQL_Queries**
