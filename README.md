@@ -16,4 +16,8 @@ The business request for this project is to create an executive sales report for
 
 To create the necessary data model for conducting analysis and meeting the business needs outlined in the user stories, the following tables were extracted using SQL. All the data sources are in SQL Server, except for the sales budgets, which are in Excel format. The sales budgets data source was connected to the data model in a subsequent step of the process.
 
-The SQL statements for data cleaning and transformation are in the file **SQL_Queries**
+The SQL statements for data cleaning and transformation are in the folder **SQL_Queries**
+
+# Data Model
+
+Below is the screenshot of the data model after importing the cleaned and prepared tables into Power BI. This data model illustrates how FACT_Budget has been connected to FACT_InternetSales and other essential DIM tables.
