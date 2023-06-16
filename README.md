@@ -28,4 +28,4 @@ Below is the screenshot of the data model after importing the cleaned and prepar
 
 The Sales Management Dashboard is as shown below which consists of three pages. The first page functions as a dashboard and provides an overview of sales performance. The second and third pages show the sales trends over time, both per customer and per product.
 
-
+![Alt Text](Sales_Dashboard.png)
