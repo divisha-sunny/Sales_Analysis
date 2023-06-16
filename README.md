@@ -21,3 +21,5 @@ The SQL statements for data cleaning and transformation are in the folder **SQL_
 # Data Model
 
 Below is the screenshot of the data model after importing the cleaned and prepared tables into Power BI. This data model illustrates how FACT_Budget has been connected to FACT_InternetSales and other essential DIM tables.
+
+![Alt Text](Data_Model.png)
