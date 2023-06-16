@@ -30,4 +30,5 @@ The Sales Management Dashboard is as shown below which consists of three pages. 
 
 **Click the picture to to open the dashboard and try it out!**
 
-![Alt Text](Sales_Dashboard.png)
+[![Alt Text](Sales_Dashboard.png)]([link/to/destination](https://app.powerbi.com/view?r=eyJrIjoiYmNkMzU5NzAtZTNiMi00YTExLWExNmUtNDk3YTYwNDJiN2MzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9))
+
