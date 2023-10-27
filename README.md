@@ -2,6 +2,12 @@
 
 A PowerBI dashboard on Sales
 
+The Sales Management Dashboard, as shown below, consists of three pages. The first page functions as a dashboard and provides an overview of sales performance. The second and third pages show the sales trends over time, both per customer and per product.
+
+**Click the picture to to open the dashboard and try it out!**
+
+[![Alt Text](Sales_Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYmNkMzU5NzAtZTNiMi00YTExLWExNmUtNDk3YTYwNDJiN2MzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
+
 # Business Requests and User Stories
 
 The business request for this project is to create an executive sales report for sales managers. Below are the objectives from the stakeholders.
@@ -24,12 +30,6 @@ Below is the screenshot of the data model after importing the cleaned and prepar
 
 ![Alt Text](Data_Model.png)
 
-# Sales Management Dashboard
 
-The Sales Management Dashboard is as shown below which consists of three pages. The first page functions as a dashboard and provides an overview of sales performance. The second and third pages show the sales trends over time, both per customer and per product.
-
-**Click the picture to to open the dashboard and try it out!**
-
-[![Alt Text](Sales_Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYmNkMzU5NzAtZTNiMi00YTExLWExNmUtNDk3YTYwNDJiN2MzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
 
 
